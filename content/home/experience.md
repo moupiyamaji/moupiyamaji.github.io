@@ -3,13 +3,12 @@ widget: experience
 date_format: Jan 2006
 widget_id: research exp
 headless: true
-weight: 30
+weight: 20
 title: Research Experience
 subtitle: null
 design:
   columns: "2"
   background:
-    text_color_light: true
     image_darken: 0
 ---
 **IAU - Office of Astronomy for Education (OAE) Center India** - **Postdoctoral Research**  2022 - now
