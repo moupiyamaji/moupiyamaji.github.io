@@ -1,6 +1,6 @@
 ---
 
-title: Astronomy and Society: The road ahead
+title: Astronomy and Society - The road ahead
 publication_types:
   - "2"
 authors:
@@ -26,3 +26,4 @@ publishDate: "2025-5-9T10:27:00.000Z"
 
 
 ---
+<https://link.springer.com/article/10.1007/s12036-025-10048-w>
