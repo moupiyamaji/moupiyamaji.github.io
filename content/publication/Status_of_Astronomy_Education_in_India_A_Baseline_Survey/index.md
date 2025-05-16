@@ -6,9 +6,7 @@ publication_types:
 authors:
   - Maji M
   - More S
-  - Sule A
-  - et al.
-  
+  - Sule A  
 publication: Astronomy Education Journal (under review)
 publication_short: Astronomy Education Journal (AEJ)
 draft: false
