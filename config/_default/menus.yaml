@@ -20,15 +20,14 @@ main:
   #  url: '#featured'
   #  weight: 50
   
-  
   - name: Research
     url: '#experience'
     weight: 20
-    
+  
   - name: Publications
     url: '#publications'
     weight: 30
-  
+
   - name: Teaching
     url: '#teaching'
     weight: 40
@@ -53,8 +52,6 @@ main:
     url: '#contact'
     weight: 90 
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: CV
+    url: uploads/Maji_CV_2025.pdf
+    weight: 100
