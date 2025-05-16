@@ -3,11 +3,11 @@ title: "Star clusters in tidal debris"
 publication_types:
   - "2"
 authors:
-  - Rodruck, M., Charlton
-  - J., Borthakur
-  - S., Chitre
-  - A., Durrell
-  - P. R.
+  - Rodruck, M.,
+  - Charlton, J.,
+  - Borthakur, S.,
+  - Chitre, A.,
+  - Durrell, P. R.,
   - Elmegreen, D.
   - English, J.
   - Gallagher, S. C.
