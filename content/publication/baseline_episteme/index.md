@@ -1,6 +1,6 @@
 ---
 
-title: tatus of Astronomy Education in India - A Baseline Survey (Statewise Analysis)
+title: Status of Astronomy Education in India - A Baseline Survey (Statewise Analysis)
 publication_types:
   - "2"
 authors:
