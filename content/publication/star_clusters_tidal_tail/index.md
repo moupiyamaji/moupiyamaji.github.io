@@ -1,5 +1,5 @@
 ---
-title: "Star clusters in tidal debris"
+title: Star clusters in tidal debris
 publication_types:
   - "2"
 authors:
@@ -8,16 +8,16 @@ authors:
   - Borthakur, S.,
   - Chitre, A.,
   - Durrell, P. R.,
-  - Elmegreen, D.
-  - English, J.
-  - Gallagher, S. C.
-  - Gronwall, C.
-  - Knierman, K.
-  - Konstantopoulos, I.
-  - Li, Y.
-  - Maji, M.
-  - Mullan, B.
-  - Trancho, G.
+  - Elmegreen, D.,
+  - English, J.,
+  - Gallagher, S. C.,
+  - Gronwall, C.,
+  - Knierman, K.,
+  - Konstantopoulos, I.,
+  - Li, Y.,
+  - Maji, M.,
+  - Mullan, B.,
+  - Trancho, G.,
   - Vacca, W.,
 doi: ""
 publication: Monthly Notices of the Royal Astronomical Society
