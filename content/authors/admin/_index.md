@@ -45,4 +45,4 @@ research in science pedagogy, including a nationwide survey assessing astronomy 
 My work is grounded in a broader vision of inclusive and effective science education, and I remain actively engaged
 in public outreach and science communication to promote scientific literacy. 
 
-Download my {{< staticref "uploads/Maji_CV_2025.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# Download my {{< staticref "uploads/Maji_CV_2025.pdf" "newtab" >}}resumé{{< /staticref >}}.
