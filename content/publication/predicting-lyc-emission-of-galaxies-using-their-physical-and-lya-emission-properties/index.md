@@ -2,7 +2,7 @@
 title: Predicting LyC emission of galaxies using their physical and Lya emission
   properties
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Maji M
   - Verhamme A
@@ -18,4 +18,4 @@ image:
 date: 2022-11-26T11:59:09.158Z
 ---
 
-<https://ui.adsabs.harvard.edu/abs/2022A%26A...663A..66M/abstract>
+<https://www.aanda.org/articles/aa/full_html/2022/07/aa42740-21/aa42740-21.html>
