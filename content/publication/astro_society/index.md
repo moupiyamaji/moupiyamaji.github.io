@@ -18,11 +18,11 @@ image:
   focal_point: Smart
   preview_only: false
 
-date: "2025-05-01T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-5-9T10:27:00.000Z"
+publishDate: "2025-1-9T10:27:00.000Z"
 
 
 ---
