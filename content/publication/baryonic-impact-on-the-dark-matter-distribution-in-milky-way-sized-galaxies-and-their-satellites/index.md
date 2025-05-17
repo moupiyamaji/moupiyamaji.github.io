@@ -24,4 +24,4 @@ doi: ""
 publishDate: "2021-11-26T10:27:00.000Z"
 
 ---
-<https://ui.adsabs.harvard.edu/abs/2016MNRAS.458.1559Z/abstract>
+<https://academic.oup.com/mnras/article/458/2/1559/2589065>
