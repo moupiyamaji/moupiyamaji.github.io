@@ -37,13 +37,11 @@ design:
 ## **Advising**
 
 
-* Mentored two Masters Students for their semester long projects. Conceptualized the problems, gen-
-erated the dataset for analysis by performing radiative transfer simulations and helped them with
+* Mentored two Masters Students for their semester long projects. Conceptualized the problems, generated the dataset for analysis by performing radiative transfer simulations and helped them with
 running simulations and statistical analysis.
   * ***Origin of extended lyman alpha emission*** - Will Ceva (Masters student, UniGe) 2021
 
-    Investigated the origin of extended Lyman alpha emission (Lya Halos) that is often observed in galax-
-ies at early universe, especially around reionization by analyzing 50 simulated galaxies.
+    Investigated the origin of extended Lyman alpha emission (Lya Halos) that is often observed in galaxies at early universe, especially around reionization by analyzing 50 simulated galaxies.
   * ***How lyman alpha emitters work*** - Jaime Roman Garza (Masters student, UniGe) 2020
 
     Researched the impact of the inter-stellar medium (ISM) structure (covering fraction, column density
