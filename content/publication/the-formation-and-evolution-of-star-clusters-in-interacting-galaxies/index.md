@@ -26,4 +26,4 @@ publishDate: "2021-11-26T10:27:00.000Z"
 
 
 ---
-<https://ui.adsabs.harvard.edu/abs/2017ApJ...844..108M/abstract>
+<https://iopscience.iop.org/article/10.3847/1538-4357/aa7aa1>
