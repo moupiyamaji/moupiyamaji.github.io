@@ -4,7 +4,7 @@ title: Status of Astronomy Education in India - A Baseline Survey
 publication_types:
   - "2"
 authors:
-  - Maji M
+  - **Maji M**
   - More S
   - Sule A  
 publication: Astronomy Education Journal (under review)
