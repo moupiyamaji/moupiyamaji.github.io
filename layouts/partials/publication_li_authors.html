@@ -1,0 +1,4 @@
+{{- $bold_author := "Maji M" -}}
+{{- range $index, $author := .Params.authors -}}
+  {{- if eq $author $bold_author -}}<strong>{{ $author }}</strong>{{- else -}}{{ $author }}{{- end -}}{{ if lt (add $index 1) (len .Params.authors) }}, {{ end }}
+{{- end -}}
