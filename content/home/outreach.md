@@ -60,7 +60,6 @@ design:
  
 * ### Popular Science articles
 
-    * Moupiya Maji, *’The Stardust in Us’*, 5th issue of STEM Dorado Science magazine, pages 29-30,
-Oct 2024 <https://online.fliphtml5.com/dqwze/mtpq/#p=1>
-
-    * Moupiya Maji, *’Exoplanets- how astronomers discover new worlds’*, Club SciWri - Scientists Simplifying Science, May 2025 <https://sciwri.club/archives/13671>
+    * Moupiya Maji, *’[The Stardust in Us](https://online.fliphtml5.com/dqwze/mtpq/#p=1)’*, 5th issue of STEM Dorado Science magazine, pages 29-30,
+Oct 2024
+    * Moupiya Maji, *’[Exoplanets- how astronomers discover new worlds](https://sciwri.club/archives/13671)’*, Club SciWri - Scientists Simplifying Science, May 2025
