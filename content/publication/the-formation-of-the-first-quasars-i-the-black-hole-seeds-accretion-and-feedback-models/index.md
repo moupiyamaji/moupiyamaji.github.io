@@ -2,7 +2,7 @@
 title: The Formation of the First Quasars. I. The Black Hole Seeds, Accretion
   and Feedback Models
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Zhu Q
   - Li Y
@@ -10,7 +10,7 @@ authors:
   - Maji M
   - Yajima H
   - Schneider R & Hernquist L
-publication_short: Submitted to Monthly Notices of the Royal Astronomical Society (MNRAS)
+publication_short: Monthly Notices of the Royal Astronomical Society (MNRAS)
 draft: false
 featured: false
 image:
@@ -19,4 +19,4 @@ image:
   preview_only: false
 date: 2021-11-26T11:53:05.020Z
 ---
-<https://ui.adsabs.harvard.edu/abs/2020arXiv201201458Z/abstract>
+<https://academic.oup.com/mnras/article/514/4/5583/6604892>
