@@ -18,4 +18,8 @@ feature:
     icon_pack: fas
     name: Cluster computing
     # description: 10%
+
+  - icon: youtube
+    icon_pack: fab
+    name: Video editing
 ---   
