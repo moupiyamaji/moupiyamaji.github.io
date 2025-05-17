@@ -8,7 +8,7 @@ authors:
   - More S
   - Sule A  
 publication: Astronomy Education Journal (under review)
-publication_short: Astronomy Education Journal (AEJ)
+publication_short: Astronomy Education Journal (AEJ, under review)
 draft: false
 featured: false
 image:
