@@ -32,11 +32,11 @@ main:
     url: '#teaching'
     weight: 40
 
-  - name: Teacher Training Activities
+  - name: Teacher Training
     url: '#training'
     weight: 50
     
-  - name: Outreach
+  - name: Outreach & SciComm
     url: '#outreach'
     weight: 60
     
